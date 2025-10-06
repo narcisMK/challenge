@@ -3,4 +3,4 @@ project(Challenge)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(Challenge main.cpp)
+add_executable(Challenge main.cpp sharedData.hpp)
